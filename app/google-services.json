@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7630163040",
+    "project_id": "daan-33bb7",
+    "storage_bucket": "daan-33bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7630163040:android:e96cdf18f7463a2c204705",
+        "android_client_info": {
+          "package_name": "com.example.daan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7630163040-ju847s5g72r1d2u4imrkhv3ta07jpnif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TY6bhInHOIqFt2i13Durhgg0AuWLnck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7630163040-ju847s5g72r1d2u4imrkhv3ta07jpnif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
